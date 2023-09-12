@@ -59,7 +59,7 @@ const defaultCommands = {
     argument: ['<jdlFiles...>'],
   },
   entity: {
-    desc: 'Create a new JHipster entity: JPA entity, Spring server-side components and Angular client-side components',
+    desc: 'Create a new JHipster entity: JPA entity, Spring server side components and client side components',
   },
   entities: {
     desc: 'Regenerate entities',
